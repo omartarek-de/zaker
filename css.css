@@ -1,0 +1,36 @@
+.home-about {
+    direction: rtl;
+}
+.home-about .headline {
+    margin-bottom: 50px;
+}
+.headline h3{
+    font-size: 36px;
+    font-weight: bold;
+}
+.headline h3 span{
+    color: #c5a481;
+}
+text {
+    align-items: center;
+}
+.home-about .text-card h4 {
+    color: #333;
+    font-weight: bold;
+    font-size: 28px;
+    margin: 0 0 30px;
+}
+.home-about .text-card p {
+    font-size: 17px;
+    margin-bottom: 25px;
+    line-height: 35px;
+}
+.str {
+    position: absolute;
+    left: 50%;
+    display: block;
+    width: 100px;
+    border-bottom: 2px solid;
+    content: "";
+}
+
